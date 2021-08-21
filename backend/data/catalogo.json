@@ -1,0 +1,22 @@
+[
+    {
+        "codigoCatalogo": 1,
+        "codigoEmpresa": 1,
+        "nombreCatalogo":"Comida",
+        "imagenCatalogo": "../../clientes/img/catalogo-pics/catalogo 1.jpg"
+
+    },
+    {
+        "codigoCatalogo": 2,
+        "codigoEmpresa": 2,
+        "nombreCatalogo":"Comida",
+        "imagenCatalogo": "../../clientes/img/catalogo-pics/catalogo 1.jpg"
+
+    },{
+        "codigoCatalogo": 3,
+        "codigoEmpresa": 2,
+        "nombreCatalogo":"Comida",
+        "imagenCatalogo": "../../clientes/img/catalogo-pics/catalogo 1.jpg"
+
+    }
+]

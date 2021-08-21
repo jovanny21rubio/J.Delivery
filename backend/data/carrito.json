@@ -1,0 +1,18 @@
+[
+  {
+    "codigoProducto": 1,
+    "nombreProducto": "Pizza",
+    "txtProducto": "4 Cuatro diferentes especialidades en una sola pizza: súper suprema, canadiense, pepperoni y jamón.",
+    "precioProducto": 200,
+    "cantidadProducto": 5,
+    "totalProducto": 2
+  },
+  {
+    "codigoProducto": 1,
+    "nombreProducto": "Pizza",
+    "txtProducto": "4 Cuatro diferentes especialidades en una sola pizza: súper suprema, canadiense, pepperoni y jamón.",
+    "precioProducto": 200,
+    "cantidadProducto": 5,
+    "totalProducto": 2
+  }
+]

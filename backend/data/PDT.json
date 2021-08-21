@@ -1,0 +1,50 @@
+[
+    { 
+        "idCompra":12,
+        "NombrePedido":"Baleadas extremas",
+        "direccionEntrega":"Valle de angeles",
+        "Restaurante":"Baleadas Express",
+        "numeroCliente": 33454050,
+        "imagen":"Extrema.jpg"
+    },
+    { 
+        "idCompra":13,
+        "NombrePedido":"Combo para 6",
+        "direccionEntrega":"Santa Isabel",
+        "Restaurante":"Bigos-Multiplaza",
+        "numeroCliente": 990429880,
+        "imagen":"MegaCombo.jpg"
+    },
+    { 
+        "idCompra":14,
+        "NombrePedido":"tortas",
+        "direccionEntrega":"Residencial la cañada",
+        "Restaurante":"tacostado",
+        "numeroCliente": 990425989,
+        "imagen":"Tortas.jpg"
+    },
+    { 
+        "idCompra":15,
+        "NombrePedido":"Arroz Familiar",
+        "direccionEntrega":"Col.Aleman",
+        "Restaurante":"City king",
+        "numeroCliente": 33803543,
+        "imagen":"ArrozFamiliar.jpg"
+    },
+    { 
+        "idCompra":16,
+        "NombrePedido":"Pollo chuco",
+        "direccionEntrega":"Col.Las torres",
+        "Restaurante":"Tipicos de la costa",
+        "numeroCliente": 96724585,
+        "imagen":"Pollochuco.jpg"
+    },
+    { 
+        "idCompra":17,
+        "NombrePedido":"Alitas",
+        "direccionEntrega":"La Honduras",
+        "Restaurante":"Wings",
+        "numeroCliente": 95917184,
+        "imagen":"Alitas.jpg"
+    }
+]

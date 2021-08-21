@@ -1,0 +1,38 @@
+[
+    {
+    "idCompra":1,
+    "NombrePedido":"Baleadas",
+    "Nombrelocal":"Baleadas Kennedy",
+    "Cantidad": 3 ,
+    "imagen": "Baleadas-1.jpg" 
+    },
+    {
+    "idCompra":2,
+    "NombrePedido":"Wow Box",
+    "Nombrelocal":"Pizza Hut",
+    "Cantidad": 1 ,
+    "imagen": "wowBox.jpg" 
+   },
+   {
+    "idCompra":3,
+    "NombrePedido":"Sopa Mondongo",
+    "Nombrelocal":"Morito",
+    "Cantidad": 4 ,
+    "imagen": "sopaMondongo.jpg" 
+    },
+    {
+    "idCompra":4,
+    "NombrePedido":"Combo Familiar",
+    "Nombrelocal":"Pollo Campero",
+    "Cantidad": 2 ,
+    "imagen": "comboFamiliar.jpeg" 
+    },
+    {
+    "idCompra":5,
+    "NombrePedido":"tenders de pollo",
+    "Nombrelocal":"Kfc",
+    "Cantidad": 8 ,
+    "imagen": "tenders.jpg" 
+    }
+
+]

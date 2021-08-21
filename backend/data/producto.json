@@ -1,0 +1,31 @@
+[
+  {
+    "codigoProducto": 1,
+    "codigoEmpresa": 1,
+    "imagenProducto": "../../clientes/img/producto/producto 1.jpg",
+    "nombreProducto": "Pizza",
+    "txtProducto": "4 Cuatro diferentes especialidades en una sola pizza: súper suprema, canadiense, pepperoni y jamón.",
+    "precioProducto": 22,
+    "cantidadProducto": 5,
+    "totalProducto": 2
+  },
+  {
+    "codigoProducto": 1,
+    "codigoEmpresa": 1,
+    "imagenProducto": "../../clientes/img/producto/producto 2.jpg",
+    "nombreProducto": "Pizza",
+    "txtProducto": "rico",
+    "precioProducto": 22,
+    "cantidadProducto": 2,
+    "totalProducto": 2
+  },{
+    "codigoProducto": 1,
+    "codigoEmpresa": 1,
+    "imagenProducto": "../../clientes/img/producto/producto 3.png",
+    "nombreProducto": "Pizza",
+    "txtProducto": "rico",
+    "precioProducto": 22,
+    "cantidadProducto": 2,
+    "totalProducto": 2
+  }
+]

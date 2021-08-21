@@ -1,0 +1,38 @@
+[
+    { 
+        "idCompra":18,
+        "NombrePedido":"Gringas",
+        "direccionEntrega":"Los alpes",
+        "imagen":"Gringas.jpg"
+    },
+    { 
+        "idCompra":19,
+        "NombrePedido":"Pollo Hornado",
+        "direccionEntrega":"Santa Isabel",
+        "imagen":"PolloHorneado.jpg"
+    },
+    { 
+        "idCompra":20,
+        "NombrePedido":"Enchiladas",
+        "direccionEntrega":"Residencial la cañada",
+        "imagen":"Enchiladas.jpg"
+    },
+    { 
+        "idCompra":21,
+        "NombrePedido":"Arroz Familiar",
+        "direccionEntrega":"Col.Aleman",
+        "imagen":"Familiar.jpg"
+   },
+    { 
+        "idCompra":22,
+        "NombrePedido":"Tacos al pastor",
+        "direccionEntrega":"Col.Las torres",
+        "imagen":"TacosAlPastor.jpg"
+    },
+    { 
+        "idCompra":23,
+        "NombrePedido":"Pizaa con orilla de queso ",
+        "direccionEntrega":"La Honduras",
+        "imagen":"queso.jpg"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    { 
+        "idCompra":6,
+        "NombrePedido":"Baleadas con aguacate",
+        "direccionEntrega":"El guanacaste",
+        "Restaurante":"Baleadas Kennedy",
+        "numeroCliente": 33452030      ,
+        "imagen": "BaleadaConAguacate.jpg"
+    },
+    { 
+        "idCompra":7,
+        "NombrePedido":"Big bigos",
+        "direccionEntrega":"Kennedy",
+        "Restaurante":"Bigos-Miraflores",
+        "numeroCliente": 99042398,
+        "imagen": "BigBigos.jpg"
+    },
+    { 
+        "idCompra":8,
+        "NombrePedido":"Carne Asada",
+        "direccionEntrega":"Residencial Las Uvas",
+        "Restaurante":"Carnitas-Kennedy",
+        "numeroCliente": 99042398,
+        "imagen": "CarneAsada.jpg"
+    },
+    { 
+        "idCompra":9,
+        "NombrePedido":"Arroz Chino",
+        "direccionEntrega":"Col.Aleman",
+        "Restaurante":"City king",
+        "numeroCliente": 33804553,
+        "imagen": "ArrozChino.jpg"
+    },
+    { 
+        "idCompra":10,
+        "NombrePedido":"Chuletas con tajadas",
+        "direccionEntrega":"Carrizal",
+        "Restaurante":"Tipicos de la costa",
+        "numeroCliente": 98097865,
+        "imagen": "ChuletasConTajadas.jpg"
+    },
+    { 
+        "idCompra":11,
+        "NombrePedido":"Chuletas con papas",
+        "direccionEntrega":"Los pinos",
+        "Restaurante":"Tipicos de la costa",
+        "numeroCliente": 92990235,
+        "imagen": "ChuletaConPapas.jpg"
+    }
+]

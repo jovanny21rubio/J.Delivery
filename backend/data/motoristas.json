@@ -1,0 +1,144 @@
+[
+  {
+    "Nombre": "Patricio",
+    "Apellido": "Estrella",
+    "NombreUsuario": "PatEstrella",
+    "imagen": "patricio.jpg",
+    "Correo": "patricioEstrella@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Veguetta",
+    "Apellido": "Lagos",
+    "NombreUsuario": "PrincipeSayajin",
+    "imagen": "veguetta.jpg",
+    "Correo": "veguetta@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Goku",
+    "Apellido": "Donaire",
+    "NombreUsuario": "SonGoku",
+    "imagen": "goku.jpg",
+    "Correo": "goku@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Piccolo",
+    "Apellido": "Namek",
+    "NombreUsuario": "Namekuseyin",
+    "imagen": "picollo.jpg",
+    "Correo": "piccolo@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Milk",
+    "Apellido": "Roque",
+    "NombreUsuario": "lechecondensada",
+    "imagen": "milk.jpg",
+    "Correo": "milk@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Jonathan",
+    "Apellido": "Rubio",
+    "NombreUsuario": "JR1928",
+    "imagen": "jonathan.jpg",
+    "Correo": "jrubio@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Felipe",
+    "Apellido": "Roque",
+    "NombreUsuario": "beckham",
+    "imagen": "felipe.jpg",
+    "Correo": "felipe@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Alejandro",
+    "Apellido": "Inestroza",
+    "NombreUsuario": "AleTroza",
+    "imagen": "Alejandro.jpg",
+    "Correo": "alejandro@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Williams",
+    "Apellido": "Ramos",
+    "NombreUsuario": "Sempai",
+    "imagen": "Williams.jpg",
+    "Correo": "williams@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Leonel",
+    "Apellido": "Messi",
+    "NombreUsuario": "GOAT",
+    "imagen": "messi.jpg",
+    "Correo": "leomessi@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Cristiano",
+    "Apellido": "Ronaldo",
+    "NombreUsuario": "GOAT2",
+    "imagen": "cristiano.jpg",
+    "Correo": "cr7@gmail.com",
+    "Contrasena": "1234-Motorista.",
+    "Entregas": 4
+  },
+  {
+    "Nombre": "Josue",
+    "Apellido": "Rubio",
+    "NombreUsuario": "jrubio",
+    "imagen": "",
+    "Correo": "joro@yopmail.com",
+    "Contrasena": "prueba-123",
+    "Entregas": 3
+  },
+  {
+    "Nombre": "Josue",
+    "Apellido": "Rubio",
+    "NombreUsuario": "jrubio",
+    "imagen": "",
+    "Correo": "joro@yopmail.com",
+    "Contrasena": "prueba-123",
+    "Entregas": 3
+  },
+  {
+    "Nombre": "Carlos",
+    "Apellido": "Valderrama",
+    "NombreUsuario": "Valderrama10",
+    "imagen": "goku.jpg",
+    "Correo": "Valderrama@yopmail.com",
+    "Contrasena": "Elpueblomanda",
+    "Entregas": 3
+  },
+  {
+    "Nombre": "Jovanny",
+    "Apellido": "Rubio",
+    "NombreUsuario": "RubioBatres",
+    "imagen": "",
+    "Correo": "asdfghjkl@gmail.com",
+    "Contrasena": "12345-Motoristas"
+  },
+  {
+    "Nombre": "Mario",
+    "Apellido": "Zuniga",
+    "NombreUsuario": "Zungiadber",
+    "imagen": "",
+    "Correo": "Zungiadber1234@gmail.com",
+    "Contrasena": "12345-Motoristas"
+  }
+]

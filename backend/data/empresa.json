@@ -1,0 +1,21 @@
+[
+    {
+        "codigoEmpresa": 1,
+        "codigoCatalogo": 1,
+        "nombreEmpresa": "Wendys",
+        "imagenEmpresa": "../../clientes/img/empresa/Empresa 1.png"
+    },
+    {
+        "codigoEmpresa": 2,
+        "codigoCatalogo": 1,
+        "nombreEmpresa": "Wendys",
+        "imagenEmpresa": "../../clientes/img/empresa/Empresa 2.jpg"
+    }
+    ,
+    {
+        "codigoEmpresa": 3,
+        "codigoCatalogo": 2,
+        "nombreEmpresa": "Wendys",
+        "imagenEmpresa": "../../clientes/img/empresa/Empresa 3.png"
+    }
+]
