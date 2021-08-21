@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#logo{
+    width: 122px;
+    height: 65px;
+    top: 6px;
+    margin-left: 120px;
+}
+body{
+    background-image:url('../img/Fondo.jpg');
+}
+.motorista{
+    padding: 0px;
+  
+    margin-left: 25%;
+    color: black;
+    margin-top: 0px;
+
+
+}
+
+#boton{
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    top: 458px;
+    height: 40px;
+    width: 180px;
+    margin-left: 94px;
+    margin-top: 6px
+}
+a {
+    color: #0d6efd;
+    text-decoration: underline;
+    padding: 40px;
+    padding-top: 10px;
+    /* margin-top: 0px; */
+    margin: 0px;
+    -webkit-box-flex: circle;
+}
+
+#boton2{
+    border-radius: 40px;
+    background-color: rgb(245, 140, 140);
+    color: white;
+    top: 458px;
+    height: 66px;
+    width: 187px;
+    margin-left: 11px;
+    margin-top: 12px;
+
+}
+
+
+#formulario-motorista{
+   width: 400px;
+   padding: 20px;
+   margin: auto;
+   margin-top: 100px;
+   border-radius: 4px;
+   margin-left: 200px;
+
+   
+}    
+
+.container-fluid{
+    padding: 20px;
+    width: 426px;
+    height: 664px;
+    margin-top: 10px;
+    margin-block-start: 145px;
+    box-shadow: 7px 13px 37px rgb(82 139 137);
+}
+
+#formulario.motorista:hover{
+    background-color: black;
+}
+
+
+
+.control{/*clase CSS*/
+    width: 360px;
+    padding: 9px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    margin: 8px;
+    font-size: 1rem;
+    margin-bottom: 4px;
+    border-radius: 50px;
+    border-width: 0;
+    background-color: #fffbfb;
+    color: rgb(10, 0, 0);
+    margin-left: 10px
+}
+
+@media ( max-width:575.98px){
+    #formulario-motorista{/*Por numeral */
+        background-color: transparent;
+        color: #fff;
+            padding: 20px 18px;
+            width: auto;
+            height: auto;
+            border-radius: 0;
+            margin-top: 5px;
+        }
+        .control{
+            font-size: 0.8rem;
+        }
+        #contenido{
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        #logo{
+            width: 80px;
+            padding-bottom:0;
+        }
+        #texto-prueba{
+            display: none;
+        }
+        .container-fluid {
+            padding: 20px;
+            width: 426px;
+            height: 664px;
+            margin-top: 10px;
+            margin-block-start: 145px;
+            box-shadow: 7px 13px 37px rgb(82 139 137);
+                                      }
+}

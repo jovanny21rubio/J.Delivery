@@ -1,0 +1,354 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    
+}
+#centrado1{
+  margin-top: -12px;
+  margin-bottom: 1rem;
+}
+
+body{
+     background-image:url('../img/fondo1.2.jpg');
+    height: 100%;
+    width: 100%;
+}
+#logo{
+    width: 100px;
+    height: 80px;
+    margin-left: 40%;
+}
+
+#letra{
+ margin-left: 3%;
+}
+
+.container{
+width: 100%;
+
+}
+
+#cerrar{
+  height: 50px;
+  width: 300px;
+  margin-left: 55%;
+  margin-top: 0%;
+  border-radius: 10px;
+}
+
+@media (min-width:320px)and(max-width:539px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        width: 100%;
+        
+    }
+    #logo{
+        width: 126px;
+        height: 87px;
+        margin-right: 40%;
+    }
+    #boton1{
+      padding: 6vw;
+      margin: 17px;
+      margin-left: 27%;
+      border-radius: 11px;
+      height: 65%;
+      width: 50%;
+      
+      }
+      #boton2{
+        padding: 8vw;
+    margin: 17px;
+    margin-left: 27%;
+    border-radius: 11px;
+    height: 65%;
+    width: 50%;
+      
+      }
+      #boton3{
+        padding: 6vw;
+    margin: 17px;
+    margin-left: 27%;
+    border-radius: 11px;
+    height: 60%;
+    width: 50%;
+      
+      }
+      #boton4{
+        padding: 6vw;
+        margin: 17px;
+        margin-left: 27%;
+        border-radius: 11px;
+        height: 60%;
+        width: 50%
+      
+      }
+}
+
+@media ( max-width:540px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        width: 100%;
+        
+    }
+    #logo{
+        width: 126px;
+        height: 87px;
+        
+    }
+
+    #boton1{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton2{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton3{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton4{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+}
+
+@media ( min-width:576.px) and (max-width:767.98px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        width: 100%;
+        
+    }
+    #logo{
+    width: 126px;
+    height: 87px;
+    
+    }
+    #boton1{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton2{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton3{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton4{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+}
+
+@media ( max-width:768px)and ( max-width:991.98px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        width: 100%;
+        
+    }
+    #logo{
+            width: 126px;
+    height: 87px;
+    margin-left: 42%;
+    }
+    #boton1{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton2{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton3{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton4{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+}
+
+@media ( max-width:992px) and (max-width:1199.98px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        width: 100%;
+        
+    }
+    #logo{
+            width: 126px;
+    height: 87px;
+    margin-left: 46%;
+    }
+    #boton1{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton2{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton3{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton4{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+}
+
+@media ( max-width:1200px){
+  
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        width: 100%;
+        
+    }  #logo{
+        width: 116px;
+        height: 70px;
+        margin-left: -2%;
+    }
+    #boton1{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton2{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton3{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      
+      }
+      #boton4{
+        padding: 5vw;
+        margin: 10px;
+        margin-left: 40vw;
+        border-radius: 50px;
+      }
+      #cerrar{
+        height: 41px;
+        width: 133px;
+        margin-left: 50%;
+        margin-top: 0%;
+      }
+      
+}
+
+
+#boton1{
+    background-color: rgb(219, 199, 199);
+    padding: 6vw;
+    margin: 17px;
+    margin-left: 27%;
+    border-radius: 11px;
+    height: 50%;
+    width: 50%;
+    text-align: center;
+  }
+#boton2{
+    background-color: rgb(161, 230, 230);
+    padding: 9vw;
+    margin: 17px;
+    margin-left: 27%;
+    border-radius: 11px;
+    height: 50%;
+    width: 50%
+  
+  }
+  #boton3{
+    background-color: slateblue;
+    padding: 6vw;
+    margin: 17px;
+    margin-left: 27%;
+    border-radius: 11px;
+    height: 50%;
+    width: 50%;
+  
+  }
+  #boton4{
+    background-color: lightblue;
+    padding: 6vw;
+    margin: 17px;
+    margin-left: 27%;
+    border-radius: 11px;
+    height: 50%;
+    width: 50%;
+  
+  }

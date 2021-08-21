@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+#logo{
+    width: 128px;
+    height: 100px;
+    margin-left: 32%;
+}
+body{
+    background-image:url('../img/Fondo.jpg');
+}
+.motorista{
+    padding: 0px;
+    color: black;
+    margin-top: 16px;
+    margin-left: 25%
+
+
+}
+
+#iniciar{
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    top: 458px;
+    height: 48px;
+    width: 212px;
+    margin-left: 89px;
+    margin-top: 12px;
+}
+
+
+
+
+#formulario-motorista{
+   width: 400px;
+   padding: 20px;
+   margin: auto;
+   margin-top: 100px;
+   border-radius: 4px;
+   margin-left: 200px;
+
+   
+}    
+
+.container-fluid{
+    padding: 20px;
+    width: 426px;
+    height: 500px;
+    margin-top: 10px;
+    margin-block-start: 215px;
+    box-shadow: 7px 13px 37px rgb(82 139 137);
+}
+
+
+
+
+.control{/*clase CSS*/
+    width: 360px;
+    padding: 9px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    margin: 8px;
+    font-size: 1rem;
+    margin-bottom: 4px;
+    border-radius: 50px;
+    border-width: 0;
+    background-color: #fffbfb;
+    color: rgb(10, 0, 0);
+    margin-left: 10px
+}
+
+@media ( max-width:575.98px){
+    #formulario-motorista{/*Por numeral */
+        background-color: transparent;
+        color: #fff;
+            padding: 20px 18px;
+            width: auto;
+            height: auto;
+            border-radius: 0;
+            margin-top: 5px;
+        }
+        .control{
+            font-size: 0.8rem;
+        }
+        #contenido{
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        #logo{
+            width: 128px;
+            height: 100px;
+            margin-left: 32%;
+        }
+        #texto-prueba{
+            display: none;
+        }
+}
